@@ -7,3 +7,6 @@ p{
     height: 200px;
     background-color: aqua;
 }
+td{
+    border: solid;
+}
