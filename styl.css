@@ -10,3 +10,6 @@ p{
 td{
     border: solid 2px;
 }
+tr{
+    background-color: aquamarine;
+}
